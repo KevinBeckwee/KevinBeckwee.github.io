@@ -55490,7 +55490,7 @@ p:function(a){this.a.toString
 this.be(0)},
 M:function(a,b){return this.a.c}}
 F.B7.prototype={
-M:function(a,b){var s=null,r=X.a4K(s,C.nj),q=L.jv("Nyaa",s,s,s,s,s,s)
+M:function(a,b){var s=null,r=X.a4K(s,C.nj),q=L.jv("Form validator",s,s,s,s,s,s)
 return new S.rh(new M.tI(new E.pv(q,new P.W(1/0,56),s),new F.rw(s),s),"Flutter Demo",r,s)}}
 F.rw.prototype={
 au:function(){return new F.rx(new N.bk(null,t.fP),D.a4H(null),C.l)}}
