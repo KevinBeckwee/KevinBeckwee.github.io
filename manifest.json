@@ -1,6 +1,6 @@
 {
-    "name": "form_tutorial",
-    "short_name": "form_tutorial",
+    "name": "signin_example",
+    "short_name": "signin_example",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
