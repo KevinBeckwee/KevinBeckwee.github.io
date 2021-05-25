@@ -1,6 +1,6 @@
 {
-    "name": "signin_example",
-    "short_name": "signin_example",
+    "name": "flutter_tables",
+    "short_name": "flutter_tables",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
